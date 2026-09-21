@@ -1,2 +1,2 @@
 text
-Under development
+Zaklady programmovani
