@@ -1,2 +1,1 @@
-text
-Zaklady programmovani
+Text z hlavni vetve main
