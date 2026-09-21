@@ -1,1 +1,2 @@
 text
+Zaklady programmovani
